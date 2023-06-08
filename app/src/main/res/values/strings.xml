@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="iniciar">Iniciar sonido</string>
+    <string name="pausar">Pausar sonido</string>
+    <string name="continuar">Continuar reproducción</string>
+    <string name="loop">¿Reproducir en Loop?</string>
+    <string name="status">Estado: sin reproducción</string>
+</resources>
